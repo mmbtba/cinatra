@@ -6,6 +6,8 @@ build
 *.opensdf
 *.suo
 .*.swp
-3rdparty/*
 *.user
-
+*.db
+*.opendb
+cmake-build-*
+.idea
